@@ -1,0 +1,24 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  width: 5%;
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px
+
+}
+
+.great-img{
+  border-radius: 100%;
+}
+
+h1, h3 {
+  color: #66bfbf;
+}
+
+.btn:hover {
+  background-color: aqua;
+}
